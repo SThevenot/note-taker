@@ -1,18 +1,18 @@
 [
   3,
   {
-    "title": "sa",
-    "text": "s",
+    "title": "To-do List",
+    "text": "- grocery shopping\n- clean room\n",
     "id": 0
   },
   {
-    "title": "sas",
-    "text": "ss",
+    "title": "Homework",
+    "text": "- note-taker\n- readme generator",
     "id": 1
   },
   {
-    "title": "s",
-    "text": "s",
+    "title": "Buckets of fun!",
+    "text": "waterparks!\nhiking!",
     "id": 2
   }
 ]
