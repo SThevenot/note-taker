@@ -183,6 +183,3 @@ if (window.location.pathname === '/notes') {
 }
 
 getAndRenderNotes();
-
-app.listen(PORT);
-console.log("Server started at http://localhost:" + PORT);
